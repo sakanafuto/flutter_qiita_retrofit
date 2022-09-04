@@ -1,4 +1,4 @@
-import 'package:flutter_qiita_retrofit/user.dart';
+import 'package:flutter_qiita_retrofit/model/user.dart';
 import 'package:json_annotation/json_annotation.dart';
 
 part 'article.g.dart';
